@@ -1,1 +1,2 @@
 # odin-recipes
+Introduction: This is my first project assignment within The Odin Project's foundations course, called Project: Recipes. In this project I will practice the HTML skills I've learned so far to create a very basic recipe website. At first it will only be built in HTML, and thus not be very pretty, but I will revisit the project in the future and touch it up using CSS skills I will have learned by then.
